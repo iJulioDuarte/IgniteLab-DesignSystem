@@ -1,8 +1,8 @@
-🚀 IgniteLab-DesignSystem 🚀
-🌐Projeto desenvolvido durante as aulas do IniteLab da Rokeatseat.
+🚀<h1>IgniteLab-DesignSystem</h1>🚀
+🌐<h2>Projeto desenvolvido durante as aulas do IniteLab da Rokeatseat.</h2>
 
 
--Conhecimentos adquiridos:
+<h3>-Conhecimentos adquiridos:</h2>
 
 🖼️<h3>Design System</h3>
 
