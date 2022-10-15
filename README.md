@@ -9,6 +9,5 @@
 <hr>
 <div><h3><img align="center" height="25" width="25" alt="Tailwindcss" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg"> Tailwindcss<h3> <h5>É uma estrutura de código css que se baseia no "css-inline", onde todas as estilizações são definidas por meio de classes, evitando o desperdício de tempo ao procurar arquivos para poder estiliza-los</h5></div>
 <hr>
-<div><h3><img align="center" height="25" width="25" alt="Storybook" src="https://user-images.githubusercontent.com/101108255/195966488-442502b7-951b-4560-a4ef-c219cab1b2ce.png
-"> Tailwindcss<h3> <h5>É uma estrutura de código css que se baseia no "css-inline", onde todas as estilizações são definidas por meio de classes, evitando o desperdício de tempo ao procurar arquivos para poder estiliza-los</h5></div>
+<div><h3><img align="center" height="25" width="25" alt="Storybook" src="https://iconape.com/wp-content/files/qa/371510/svg/371510.svg"> Tailwindcss<h3> <h5>É uma estrutura de código css que se baseia no "css-inline", onde todas as estilizações são definidas por meio de classes, evitando o desperdício de tempo ao procurar arquivos para poder estiliza-los</h5></div>
 <hr>
