@@ -7,7 +7,7 @@
 <div><h3>🖼️Design System:</h3><h5>É uma convenção criada dentro de empresa, principalmente quando a mesma trabalha com múltiplos projetos que seguem uma linha visual muito semelhante.</h5></div>
 
 <hr>
-<div><h3><img align="center" height="25" width="25" alt="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"> Figma<h3> <h5>Além de aprender muito bem o básico de como utilizar a ferramenta do figma, aprendi muito sobre a importância de um Dev Front end ter conhecimentos sobre UI/UI</h5></div>
+<div><h3><img align="center" height="25" width="25" alt="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"> Figma<h3> <h5>Além de aprender muito bem o básico de como utilizar a ferramenta do figma, aprendi muito sobre a importância de um Dev Front end ter conhecimentos sobre UI/UI</h5></div>
 <hr>
 <div><h3><img align="center" height="25" width="25" alt="Tailwindcss" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg"> Tailwindcss<h3> <h5>É uma estrutura de código css que se baseia no "css-inline", onde todas as estilizações são definidas por meio de classes, evitando o desperdício de tempo ao procurar arquivos para poder estiliza-los</h5></div>
 <hr>
