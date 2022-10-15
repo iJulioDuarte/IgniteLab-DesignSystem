@@ -1,5 +1,5 @@
-🚀<h1>IgniteLab-DesignSystem</h1>🚀
-🌐<h2>Projeto desenvolvido durante as aulas do IniteLab da Rokeatseat.</h2>
+<h1>🚀IgniteLab-DesignSystem🚀</h1>
+<h2>🌐Projeto desenvolvido durante as aulas do IniteLab da Rokeatseat.</h2>
 
 
 <h3>-Conhecimentos adquiridos:</h2>
